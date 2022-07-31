@@ -1,0 +1,9 @@
+{
+	"name": "AzureDev9",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9c82c7d0-da8d-490a-83d6-0d5888885420",
+		"tenantId": "b1ca38f9-6ecc-4273-a500-fffdfc86d88b"
+	}
+}
